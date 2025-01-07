@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RyanMcGon
-- 👀 I’m interested in Rugby
+- 👀 My favourite sport is Rugby
 - 🌱 I’m currently learning Javascript, React, Python
-- 💞️ I’m looking to collaborate on anything
+- 💞️ I’m looking to collaborate on awesome projects
 - 📫 How to reach me https://www.linkedin.com/in/ryan-mcgonagle-7b7853226/
 
 <!---
